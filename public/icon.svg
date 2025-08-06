@@ -1,0 +1,16 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lamp base -->
+  <ellipse cx="48" cy="70" rx="28" ry="10" fill="#FBC02D"/>
+  <ellipse cx="48" cy="70" rx="20" ry="7" fill="#FFF8E1" opacity="0.8"/>
+  <!-- Lamp spout -->
+  <rect x="70" y="66" width="12" height="4" rx="2" fill="#FBC02D"/>
+  <!-- Lamp handle -->
+  <path d="M28,70 Q20,64 28,60" stroke="#FBC02D" stroke-width="3" fill="none"/>
+  <!-- Genie smoke -->
+  <path d="M48 70 Q44 55 56 60 Q54 50 64 52 Q58 44 72 44" stroke="#81D4FA" stroke-width="3" fill="none" />
+  <!-- Document (ReadMe) -->
+  <rect x="60" y="32" width="20" height="28" rx="3" fill="#FFF" stroke="#81D4FA" stroke-width="2"/>
+  <line x1="64" y1="38" x2="76" y2="38" stroke="#B0BEC5" stroke-width="2" />
+  <line x1="64" y1="44" x2="76" y2="44" stroke="#B0BEC5" stroke-width="2" />
+  <line x1="64" y1="50" x2="76" y2="50" stroke="#B0BEC5" stroke-width="2" />
+</svg>

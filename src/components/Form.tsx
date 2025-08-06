@@ -1,11 +1,4 @@
-import {
-  Box,
-  TextField,
-  FormControlLabel,
-  Checkbox,
-  Typography,
-  Stack,
-} from "@mui/material";
+import { TextField, FormControlLabel, Checkbox, Stack } from "@mui/material";
 
 type FormData = {
   name: string;
